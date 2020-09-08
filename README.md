@@ -14,7 +14,10 @@ Please cite our papers if you find it useful for your research.
   title={Beyond the Patchwise Classification: Spectral-Spatial Fully Convolutional Networks for Hyperspectral Image Classification},
   author={Xu, Yonghao and Du, Bo and Zhang, Liangpei},
   journal={IEEE Transactions on Big Data},
-  year={2019},
+  year={2020},
+  volume={6},
+  number={3},
+  pages={492-506},
   publisher={IEEE}
 }
 ```
